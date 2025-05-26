@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
-function Explore() {
-  return (
-    <div>Explore</div>
-  )
+function ExploreMenu() {
+  return <div>ExploreMenu</div>;
 }
 
-export default Explore
+export default ExploreMenu;
